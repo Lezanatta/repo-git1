@@ -1,8 +1,11 @@
 Testando conflitos
-
 Nova Linha
-
 
 Terceira Linha
 
 Adicionando mais uma linha para ocasionar um conflito
+
+nova linha
+Segunda linha
+Quarta linha
+Quinta Linha
