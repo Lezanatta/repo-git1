@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Testando conflitos
 Nova Linha
 
@@ -9,3 +10,5 @@ nova linha
 Segunda linha
 Quarta linha
 Quinta Linha
+=======
+>>>>>>> parent of 3355687 (Adicionando texto)
